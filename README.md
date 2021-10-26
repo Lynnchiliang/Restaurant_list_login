@@ -21,7 +21,7 @@ Please remember sign in with email first. This website also provide login from F
 ## Installation and Execution
 1.  Clone the files to your computer
 ```
-git clone https://github.com/wentingliuu/restaurant-list-login.git
+git clone https://github.com/Lynnchiliang/Restaurant_list_login.git
 ```
 2. Init: install the npm packages
 ```
